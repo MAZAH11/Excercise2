@@ -1,11 +1,19 @@
 {
-  "name": "exercise2",
+  "name": "excercise2",
   "version": "1.0.0",
   "main": "numOfVisits.js",
   "scripts": {
-    "start": "node numOfVisits.js"
+    "devStart": "nodemon numOfVisits.js"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
   "dependencies": {
-    "express": "^4.17.1"
+    "cookie": "^0.6.0",
+    "cookie-parse": "^0.4.0",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.19.2",
+    "parser": "^0.1.4"
   }
 }
