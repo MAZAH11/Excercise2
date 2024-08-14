@@ -4,6 +4,7 @@
   "main": "numOfVisits.js",
   "scripts": {
     "devStart": "nodemon numOfVisits.js"
+     "start": "node numOfVisits.js"
   },
   "keywords": [],
   "author": "",
